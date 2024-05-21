@@ -1,0 +1,3 @@
+.first-letter-pseudo::first-letter {
+  text-transform: uppercase;
+}
